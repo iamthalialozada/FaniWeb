@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FaniWeb", "FaniWeb\FaniWeb.pyproj", "{E1CDBD0A-62D7-4D9A-8A16-697D74DB7957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PROD = Debug|PROD
+		Release|PROD = Release|PROD
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1CDBD0A-62D7-4D9A-8A16-697D74DB7957}.Debug|PROD.ActiveCfg = Release|Any CPU
+		{E1CDBD0A-62D7-4D9A-8A16-697D74DB7957}.Debug|PROD.Build.0 = Release|Any CPU
+		{E1CDBD0A-62D7-4D9A-8A16-697D74DB7957}.Release|PROD.ActiveCfg = Release|Any CPU
+		{E1CDBD0A-62D7-4D9A-8A16-697D74DB7957}.Release|PROD.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65FA40F-CF36-430C-B8CD-10B703600827}
+	EndGlobalSection
+EndGlobal
